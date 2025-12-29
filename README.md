@@ -2,7 +2,7 @@
 
 > **Solução de Inclusão Digital e E-commerce Social** para a comunidade Quilombola Mangueiras (Belo Horizonte/MG).
 
-![Capa do Projeto](<img width="1132" height="179" alt="image" src="https://github.com/user-attachments/assets/7b9f282e-5b92-4bed-9cdc-1340b5e5f985" />)
+<img width="1132" height="179" alt="image" src="https://github.com/user-attachments/assets/7b9f282e-5b92-4bed-9cdc-1340b5e5f985" />
 
 ## 🎯 O Desafio
 A comunidade Quilombo Mangueiras possui uma produção rica de agroecologia e artesanato, mas carecia de uma presença digital centralizada para divulgar sua história, lutas e facilitar a comercialização de seus produtos para fora da comunidade.
