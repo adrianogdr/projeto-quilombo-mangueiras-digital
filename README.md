@@ -26,4 +26,4 @@ Desenvolvimento de um ecossistema digital acessível e de baixo custo de manuten
 - **Acesse o Site:** [https://sites.google.com/view/quilombo-mangueiras](https://sites.google.com/view/quilombo-mangueiras)
 
 ---
-*Desenvolvido por [Adriano Gonçalves]*
+*Desenvolvido por Adriano Gonçalves*
